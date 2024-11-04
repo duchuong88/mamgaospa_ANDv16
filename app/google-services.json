@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783415010807",
+    "firebase_url": "https://mam-gao-default-rtdb.firebaseio.com",
+    "project_id": "mam-gao",
+    "storage_bucket": "mam-gao.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783415010807:android:8f33e151bd95addb9a3af2",
+        "android_client_info": {
+          "package_name": "vn.spamamgao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783415010807-s8dbjpsl4i7i1h7g73q93ccpqvca7qjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAasjRKdaNf3ZF_zr9DZ9FAg6---fvkUOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783415010807-s8dbjpsl4i7i1h7g73q93ccpqvca7qjn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783415010807-brq6v0trutk9shouf4jg4i6m68kigdap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.spamamgao"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
